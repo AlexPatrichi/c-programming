@@ -6,7 +6,7 @@ This repository is my personal journey learning **C programming**. It contains e
 
 ## Repository Structure  
 c-programming/  
-│
+│  
 ├── fundamentals/ # Basics of C (variables, data types, loops, etc.)  
 ├── functions_arrays/ # Functions, arrays, strings  
 ├── pointers_memory/ # Pointers, memory management  
