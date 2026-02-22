@@ -5,13 +5,12 @@ This repository is my personal journey learning **C programming**. It contains e
 ---
 
 ## Repository Structure  
-c-programming/  
-│  
-├── fundamentals/ # Basics of C (variables, data types, loops, etc.)  
-├── functions_arrays/ # Functions, arrays, strings  
-├── pointers_memory/ # Pointers, memory management  
-├── structs_files/ # Structs and file handling  
-└── projects/ # Larger projects combining multiple concepts  
+c-programming/    
+├── c-fundamentals/ # Basics of C (variables, data types, loops, etc.)  
+├── c-functions_arrays/ # Functions, arrays, strings  
+├── c-pointers_memory/ # Pointers, memory management  
+├── c-structs_files/ # Structs and file handling  
+└── c-projects/ # Larger projects combining multiple concepts  
 
 --- 
 
