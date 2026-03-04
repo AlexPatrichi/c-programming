@@ -5,44 +5,44 @@ This repository is my personal journey learning **C programming**, as part of my
 ---
 
 ## Repository Structure  
-c_programming/    
+c_programming/  
+│  
+├── 01-fundamentals/  
+│   ├── 01_structure_of_C_program.c  
+|   ├── 02_output_basics.c  
+│   ├── 03_variables.c  
+│   ├── 04_operators.c  
+│   └── 05_control_flow.c  
+│  
+├── 02-functions-arrays/  
+│   ├── functions.c  
+│   ├── arrays.c  
+│   └── strings.c  
 │
-├── 01-fundamentals/
-│   ├── 01_structure_of_C_program.c
-|   ├── 02_output_basics.c
-│   ├── 03_variables.c
-│   ├── 04_operators.c
-│   └── 05_control_flow.c
-│
-├── 02-functions-arrays/
-│   ├── functions.c
-│   ├── arrays.c
-│   └── strings.c
-│
-├── 03-pointers-memory/
-│   ├── pointer_basics.c
-│   ├── pointer_arithmetic.c
-│   ├── dynamic_memory.c
-│   └── double_pointers.c
-│
-├── 04-structs-files/
-│   ├── structs.c
-│   ├── file_io.c
-│   └── binary_files.c
-│
-├── 05-data-structures/
-│   ├── linked_list/
-│   │   ├── linked_list.c
-│   │   └── linked_list.h
-│   ├── stack/
-│   └── queue/
-│
-├── 06-projects/
-│   ├── 
-│   ├── 
-│   └── 
-│
-└── README.md 
+├── 03-pointers-memory/  
+│   ├── pointer_basics.c  
+│   ├── pointer_arithmetic.c  
+│   ├── dynamic_memory.c  
+│   └── double_pointers.c  
+│  
+├── 04-structs-files/  
+│   ├── structs.c  
+│   ├── file_io.c  
+│   └── binary_files.c  
+│  
+├── 05-data-structures/  
+│   ├── linked_list/  
+│   │   ├── linked_list.c  
+│   │   └── linked_list.h  
+│   ├── stack/  
+│   └── queue/  
+│  
+├── 06-projects/  
+│   ├──   
+│   ├──   
+│   └──   
+│  
+└── README.md   
 
 --- 
 
