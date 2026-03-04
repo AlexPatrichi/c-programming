@@ -1,22 +1,48 @@
 # Learning C Programming
 
-This repository is my personal journey learning **C programming**. It contains exercises, mini-projects, and notes organized by topics and difficulty levels. The goal is to **practice coding, understand concepts deeply, and document everything for future reference**.  
+This repository is my personal journey learning **C programming**, as part of my university coursework and through independent study. It contains exercises, mini-projects, and notes organized by topics and difficulty levels. The goal is to **practice consistently, develop a deep understanding of core concepts, and document my progress over time**.  
 
 ---
 
 ## Repository Structure  
-c-programming/    
-├── c-fundamentals/ # Basics of C (variables, data types, loops, etc.)  
-├── c-functions_arrays/ # Functions, arrays, strings  
-├── c-pointers_memory/ # Pointers, memory management  
-├── c-structs_files/ # Structs and file handling  
-└── c-projects/ # Larger projects combining multiple concepts  
-
---- 
-
-## Each project folder contains:  
-- `src/` → Source code files (.c)  
-- `README.md` → Project-specific explanations, concepts, examples, challenges  
+c_programming/    
+│
+├── 01-fundamentals/
+│   ├── 01_structure_of_C_program.c
+|   ├── 02_output_basics.c
+│   ├── 03_variables.c
+│   ├── 04_operators.c
+│   └── 05_control_flow.c
+│
+├── 02-functions-arrays/
+│   ├── functions.c
+│   ├── arrays.c
+│   └── strings.c
+│
+├── 03-pointers-memory/
+│   ├── pointer_basics.c
+│   ├── pointer_arithmetic.c
+│   ├── dynamic_memory.c
+│   └── double_pointers.c
+│
+├── 04-structs-files/
+│   ├── structs.c
+│   ├── file_io.c
+│   └── binary_files.c
+│
+├── 05-data-structures/
+│   ├── linked_list/
+│   │   ├── linked_list.c
+│   │   └── linked_list.h
+│   ├── stack/
+│   └── queue/
+│
+├── 06-projects/
+│   ├── 
+│   ├── 
+│   └── 
+│
+└── README.md 
 
 --- 
 
@@ -27,5 +53,3 @@ c-programming/
 - Gradually tackle advanced topics.   
 
 ---
-
-*Happy coding!*
