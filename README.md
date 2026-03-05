@@ -9,7 +9,7 @@ c_programming/
 │  
 ├── 01-fundamentals/  
 │   ├── 01_structure_of_C_program.c  
-|   ├── 02_output_basics.c  
+|   ├── 02_output_and_escape_sequences.c
 │   ├── 03_variables.c  
 │   ├── 04_operators.c  
 │   └── 05_control_flow.c  
