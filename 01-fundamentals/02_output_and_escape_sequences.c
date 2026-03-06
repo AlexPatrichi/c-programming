@@ -1,3 +1,11 @@
+/*
+============================================================
+FILE: 02_output_and_escape_sequences.c
+PURPOSE: Illustrates sequential execution of statements with printf() and 
+demonstrates the use of escape sequences in C, including: \n (newline), \t (tab), \\ (backslash), and \" (double quote). 
+============================================================
+*/
+
 #include <stdio.h>  
 
 int main(void) {  

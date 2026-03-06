@@ -10,9 +10,10 @@ c_programming/
 ├── 01-fundamentals/  
 │   ├── 01_structure_of_C_program.c  
 |   ├── 02_output_and_escape_sequences.c
-│   ├── 03_variables.c  
-│   ├── 04_operators.c  
-│   └── 05_control_flow.c  
+│   ├── 03_data_types.c
+│   ├── 04_variables.c
+│   ├── 05_operators.c
+│   └── 06_control_flow.c  
 │  
 ├── 02-functions-arrays/  
 │   ├── functions.c  
