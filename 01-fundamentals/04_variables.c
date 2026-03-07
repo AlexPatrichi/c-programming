@@ -15,7 +15,7 @@ To declare a variable, you specify its data type, name, and value.
 - The '=' operator assigns a value to the variable.
 - The value must match the variable's data type.
 
-Variable names can contain letters, digits, and underscores, must start with a letter 
+Variable names can contain identifiers like letters, digits, and underscores, must start with a letter 
 or underscore, and cannot be C keywords.
 */
 
