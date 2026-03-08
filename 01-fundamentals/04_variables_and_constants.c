@@ -1,10 +1,10 @@
 /*
-============================================================
+===========================================================================================
 FILE: 04_variables_and_constants.c
 PURPOSE: Demonstrates how to declare, initialize, and use variables in C,
 including variable naming rules, changing values, multiple variables, and format specifiers. 
 Also constants are introduced as fixed values that cannot be changed after declaration.
-============================================================
+============================================================================================
 */
 
 #include <stdio.h>

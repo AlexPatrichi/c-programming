@@ -10,7 +10,7 @@ along with their corresponding printf format specifiers.
 
 int main(void) {
 /* A data type defines what kind of value a variable can store. */
-    int items = 3;             // int stores whole numbers
+    int items = 3;              // int stores whole numbers
 
     float apple_price = 1.50f;  // float stores decimal numbers
     float banana_price = 0.80f;
@@ -23,7 +23,7 @@ int main(void) {
     total = apple_price + banana_price + orange_price;
     // Calculate the total cost of all purchased items.
 
-    char currency = '$';       // char stores a single character
+    char currency = '$';                // char stores a single character
     char store_name[] = "Local Market"; // char array (string) to store the name of the store
 
 /* For each data type, we use the appropriate format specifier in printf(). */
@@ -31,7 +31,7 @@ int main(void) {
     // Two %s specifiers require two arguments: store_name and "Receipt".
     printf("----------------\n");
   
-    printf("Items purchased: %d\n", items);       // %d for int
+    printf("Items purchased: %d\n", items);              // %d for int
     printf("Apple  : %c%.2f\n", currency, apple_price);  // %f for float
     printf("Banana : %c%.2f\n", currency, banana_price);
     printf("Orange : %c%.2f\n", currency, orange_price);

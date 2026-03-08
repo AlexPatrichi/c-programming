@@ -1,8 +1,9 @@
 /*
-============================================================
+==================================================================================
 FILE: 01_structure_of_C_program.c
-PURPOSE: Demonstrates the basic structure of a C program, including main function, printf, and program execution flow.
-============================================================
+PURPOSE: Demonstrates the basic structure of a C program, including main function,
+printf(), and program execution flow.
+==================================================================================
 */
 
 #include <stdio.h>  

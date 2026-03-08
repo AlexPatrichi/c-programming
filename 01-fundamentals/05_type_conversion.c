@@ -1,9 +1,9 @@
 /*
-========================================================================
+===============================================================================
 FILE: 05_type_conversion.c
-PURPOSE: Demonstrates implicit and explicit type conversion using a 
-shopping basket example.
-=========================================================================
+PURPOSE: Demonstrates implicit and explicit type conversion using a shopping 
+basket example.
+===============================================================================
 */
 
 #include <stdio.h>
@@ -37,7 +37,8 @@ Converting from larger types to smaller types may lead to loss of precision. */
     // decimal part is truncated
 
 /* Explicit conversion or casting
-This conversion is done manually by the programmer, placing the type in parentheses () in front of the value. */
+This conversion is done manually by the programmer, placing the type in parentheses () 
+in front of the value. */
     double corrected_total = (double)apples * price;
     printf("Total price using explicit casting: %.2f\n", corrected_total);
 
