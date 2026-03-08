@@ -21,7 +21,8 @@ int main(void) {
       /*
       Could also be written as:
       int main(){printf("Hello, C programming!");return 0;} 
-      But it is generally recommended to write code in a more readable format, with each statement on its own line and proper indentation.
+      But it is generally recommended to write code in a more readable format, 
+      with each statement on its own line and proper indentation.
       */
 
     return 0;  
