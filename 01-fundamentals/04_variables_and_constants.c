@@ -1,8 +1,9 @@
 /*
 ============================================================
-FILE: 04_variables.c
+FILE: 04_variables_and_constants.c
 PURPOSE: Demonstrates how to declare, initialize, and use variables in C,
-including variable naming rules, changing values, multiple variables, and format specifiers.
+including variable naming rules, changing values, multiple variables, and format specifiers. 
+Also constants are introduced as fixed values that cannot be changed after declaration.
 ============================================================
 */
 
@@ -40,10 +41,10 @@ data throughout the program. */
     /* Because %s reads a string until it encounters whitespace, it will only capture the first word of the name.
     So, we need to use fgets() instead of scanf(), which allows us to read the entire line.
 
-    Later, we’ll learn methods to read full lines including spaces. */
+    Later, we’ll learn  other functions like fgets() that can read full lines including spaces. */
     
     printf("\nHello, %s!\n", name);
-    printf("Starting balance: $%.2f\n", balance);
+    printf("Starting balance: £%.2f\n", balance);
 
     printf("\nEnter deposit amount: ");
     scanf("%lf", &deposit);
@@ -53,14 +54,27 @@ If you assign a new value to an existing variable, the new value will replace th
     balance = balance + deposit;
     // Alternatively, readable math: balance += deposit;
 
-    printf("Balance after deposit: $%.2f\n", balance);
+    printf("Balance after deposit: £%.2f\n", balance);
 
     printf("\nEnter withdrawal amount: ");
     scanf("%lf", &withdraw);
 
     balance = balance - withdraw;
     // Alternatively, readable math: balance -= withdraw;
-    printf("Final balance: $%.2f\n", balance);
+    printf("\nFinal balance before fee: £%.2f\n", balance);
+
+/* Constants
+Constants store values that cannot be changed during program execution.
+The 'const' keyword is used to declare variables as constants, making their values unchangeable and read-only.
+*/
+    const double TRANSACTION_FEE = 2.50;
+    // Constants must be assigned with a value, otherwise, the compiler will throw an error.
+    // As a good practice, constants are often named in uppercase letters to distinguish them from regular variables.
+
+    balance = balance - TRANSACTION_FEE; //Apply constant transaction fee to the balance.
+    // Alternatively, readable math: balance -= TRANSACTION_FEE;
+    printf("Transaction fee applied: £%.2f\n", TRANSACTION_FEE);
+    printf("Balance after transaction fee: £%.2f\n", balance);
 
     return 0;
 }
