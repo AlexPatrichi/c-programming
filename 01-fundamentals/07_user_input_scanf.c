@@ -42,7 +42,7 @@ int main(void){
     printf("How old are you? "); 
     scanf("%d", &age); 
 
-    /* scanf() stops reading when it encounters first whitespace, which is why it is 
+    /* scanf() stops reading when it encounters the first whitespace, which is why it is 
     commonly used to read numeric input from the user.
 
     scanf() takes two arguments. 
@@ -59,7 +59,7 @@ int main(void){
 
     printf("\n=== Profile Created Successfully ===\n");
 
-    printf("Welcome to the gym, %s !", name);
+    printf("Welcome to the gym, %s", name);
     printf("Age: %d\n", age);
     printf("Height: %.2f m\n", height);
     printf("Weight: %.2f kg\n", weight);
