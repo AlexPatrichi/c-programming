@@ -16,9 +16,9 @@ c_programming/
 │   ├── 06_operators.c   
 │   ├── 07_user_input_scanf.c  
 │   ├── 08_conditionals_if_else.c  
-│   ├── 09_switch_statements.c
-│   ├── 10_nested_switch.c
-│   └── 11_while_loop.c
+│   ├── 09_switch_statements.c  
+│   ├── 10_nested_switch.c  
+│   └── 11_while_loop.c  
 │
 ├── 02-functions-arrays/  
 │   ├── functions.c  
