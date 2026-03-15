@@ -19,40 +19,40 @@ c_programming/
 │   ├── 09_switch_statements.c  
 │   ├── 10_nested_switch.c  
 │   └── 11_while_loop.c  
-│
-│
+│  
+│  
 ├── 02-functions-arrays/  
 │   ├── functions.c  
 │   ├── arrays.c  
 │   └── strings.c  
-│
-│
+│  
+│  
 ├── 03-pointers-memory/  
 │   ├── pointer_basics.c  
 │   ├── pointer_arithmetic.c  
 │   ├── dynamic_memory.c  
 │   └── double_pointers.c  
-│
-│ 
+│  
+│   
 ├── 04-structs-files/  
 │   ├── structs.c  
 │   ├── file_io.c  
 │   └── binary_files.c  
-│ 
-│  
+│   
+│    
 ├── 05-data-structures/  
 │   ├── linked_list/  
 │   │   ├── linked_list.c  
 │   │   └── linked_list.h  
 │   ├── stack/  
 │   └── queue/  
-│ 
-│  
+│   
+│    
 ├── 06-projects/  
 │   ├──   
 │   ├──   
 │   └──   
-│  
+│    
 └── README.md   
 
 --- 
