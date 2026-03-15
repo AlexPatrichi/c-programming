@@ -17,8 +17,10 @@ c_programming/
 │   ├── 07_user_input_scanf.c  
 │   ├── 08_conditionals_if_else.c  
 │   ├── 09_switch_statements.c  
-│   ├── 10_nested_switch.c  
-│   └── 11_while_loop.c  
+│   ├── 10_nested_switch.c 
+│   ├── 11_while_loop.c
+│   ├── 12_for_loop.c  
+│   └── 13_nested_loops.c
 │  
 │  
 ├── 02-functions-arrays/  
@@ -42,16 +44,16 @@ c_programming/
 │    
 ├── 05-data-structures/  
 │   ├── linked_list/  
-│   │   ├── linked_list.c  
-│   │   └── linked_list.h  
+│   │      ├── linked_list.c  
+│   │      └── linked_list.h  
 │   ├── stack/  
 │   └── queue/  
 │   
 │    
 ├── 06-projects/  
-│   ├──   
-│   ├──   
-│   └──   
+│          ├──   
+│          ├──   
+│          └──   
 │    
 └── README.md   
 
