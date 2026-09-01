@@ -1,6 +1,6 @@
 /*
 =============================================================================
-FILE: 14_arrays_basics.c
+FILE: 02_arrays.c
 PURPOSE: Introduces arrays and basic data processing
 
 TOPICS COVERED:
@@ -12,7 +12,6 @@ TOPICS COVERED:
 PROGRAM FEATURES:
 - User input for multiple values
 - Data analysis using loops
-
 =============================================================================
 */
 

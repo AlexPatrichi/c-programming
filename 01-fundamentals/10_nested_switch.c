@@ -19,7 +19,6 @@ int main(void) {
     scanf("%d", &category);
 
 /*  Nested switch program flow: 
-
         User selects category
                  ↓
         Outer switch runs

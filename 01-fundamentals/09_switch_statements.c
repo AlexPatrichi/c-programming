@@ -26,7 +26,6 @@ int main(void) {
     /* Evaluate the variable once, and compares it with different case values. 
     If there is a match, the associated block of code is executed.*/
 
-        
         case 10: // Case 9 and 10 both produce Grade A
         case 9: 
         // Each possible value gets a block of code. 

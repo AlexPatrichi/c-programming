@@ -44,6 +44,6 @@ Row 1:      *       (5 spaces + 1 star)
 Row 2:     * *      (4 spaces + 2 stars)
 Row 3:    * * *     (3 spaces + 3 stars)
 Row 4:   * * * *    (2 spaces + 4 stars)
-Row 5:  * * * * *   (1 space + 5 stars)
+Row 5:  * * * * *   (1 space  + 5 stars)
 Row 6: * * * * * *  (0 spaces + 6 stars)
 */

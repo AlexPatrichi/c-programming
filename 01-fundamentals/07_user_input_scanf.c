@@ -20,7 +20,6 @@ int main(void){
     double height;
 
 /* Text input using fgets() */ 
-
     printf("What is your name? ");
     fgets(name, sizeof(name), stdin);
 
