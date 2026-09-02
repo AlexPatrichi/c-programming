@@ -1,6 +1,6 @@
 /*
 =============================================================================
-FILE: 02_arrays.c
+FILE: 04_arrays.c
 PURPOSE: Introduces arrays and basic data processing
 
 TOPICS COVERED:
