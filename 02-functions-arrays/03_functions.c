@@ -16,8 +16,7 @@ Here:
     price, quantity  -> parameters
 
 The return statement sends the calculated value back to the code
-that called the function.
-*/
+that called the function.  */
 
 #include <stdio.h>
 
@@ -37,10 +36,16 @@ int main(void) {
 
         15 * 3 = 45
 
-    The returned value is stored in 'total'.
-    */
+    The returned value is stored in 'total'.  */
 
     int change = calculate_change(payment, total);
+
+   /* Then use the returned value as an argument in another function.
+
+    payment = 50
+    total   = 45
+
+    calculate_change() returns 5.  */
 
     printf("Price: %d\n", price);
     printf("Quantity: %d\n", quantity);
@@ -48,13 +53,6 @@ int main(void) {
     printf("Payment: %d\n", payment);
     printf("Change: %d\n", change);
 
-     /* Then use the returned value as an argument in another function.
-
-    payment = 50
-    total   = 45
-
-    calculate_change() returns 5.
-    */
     return 0;
 }
 
