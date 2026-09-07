@@ -1,17 +1,7 @@
 /*
 =============================================================================
 FILE: 05_arrays.c
-PURPOSE: Introduces arrays and basic data processing
-
-TOPICS COVERED:
-- Array declaration and initialization
-- Accessing elements
-- Looping through arrays
-- Basic calculations (sum, average, max, min)
-
-PROGRAM FEATURES:
-- User input for multiple values
-- Data analysis using loops
+PURPOSE: Introduction to arrays, accessing elements, and processing data.
 =============================================================================
 */
 
