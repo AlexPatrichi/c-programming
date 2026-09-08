@@ -32,7 +32,7 @@ int main(void) {
     printf("----------------\n");
   
     printf("Items purchased: %d\n", items);              // %d for int
-    printf("Apple  : %c%.2f\n", currency, apple_price);  // %f for float
+    printf("Apple  : %c%.2f\n", currency, apple_price);  // %c for char, %.2f for float (2 decimal places)
     printf("Banana : %c%.2f\n", currency, banana_price);
     printf("Orange : %c%.2f\n", currency, orange_price);
 
