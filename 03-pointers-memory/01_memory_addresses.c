@@ -1,6 +1,6 @@
 /*
 =============================================================================
-FILE: 08_memory_addresses.c
+FILE: 01_memory_addresses.c
 PURPOSE: Introduction to variables, memory addresses, and the address-of operator.
 =============================================================================
 */
