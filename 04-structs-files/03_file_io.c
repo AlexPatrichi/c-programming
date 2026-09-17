@@ -90,7 +90,7 @@ that tells C which file to write to.
     fprintf(file, "Hello");      -> writes to the file
 */
 
-    fprintf(file, "=== ONLINE SHOP REPORT ===\n");
+    fprintf(file, "\n=== ONLINE SHOP REPORT ===\n");
     fprintf(file, "ID: %d\n", 101);
     fprintf(file, "Product: HP Laptop\n");
     fprintf(file, "Price: £%.2f\n", 899.99);
@@ -152,7 +152,6 @@ Therefore, we can use a while loop to keep reading until
 we reach the end of the file.
 */
 
-    printf("\n=== READING SHOP REPORT ===\n");
     while (fgets(line, sizeof(line), file) != NULL) {
         printf("%s", line); // Print the line read from the file
     }

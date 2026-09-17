@@ -1,4 +1,8 @@
+
 === ONLINE SHOP REPORT ===
+ID: 101
 Product: HP Laptop
 Price: £899.99
-ID Stock: 12345
+Stock: 25
+
+Status: Product Available
