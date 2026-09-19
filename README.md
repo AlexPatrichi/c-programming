@@ -31,27 +31,21 @@ c_programming/
 │  
 │  
 ├── 03-pointers-memory/  
+│     ├── memory_addresses.c    
 │     ├── pointer_basics.c  
-│     ├── pointer_arithmetic.c  
+│     ├── pointer_functions.c  
+│     ├── pointer_arrays.c
 │     ├── dynamic_memory.c  
 │     └── double_pointers.c  
 │  
 │   
 ├── 04-structs-files/  
 │      ├── structs.c  
-│      ├── file_io.c  
-│      └── binary_files.c  
+│      ├── structs_array_pointers.c
+│      └── file_io.c   
 │   
 │    
-├── 05-data-structures/  
-│      ├── linked_list/  
-│      │      ├── linked_list.c  
-│      │      └── linked_list.h  
-│      ├── stack/  
-│      └── queue/  
-│   
-│    
-├── 06-projects/  
+├── 05-projects/  
 │          ├──   
 │          ├──   
 │          └──   
