@@ -46,9 +46,12 @@ c_programming/
 │   
 │    
 ├── 05-projects/  
-│          ├──   
-│          ├──   
-│          └──   
+│       └── 01_screen_time_tracker/  
+│            ├── 01_basic_weekly_total.c
+│            ├── 02_user_input_average.c  
+│            ├── 03_two_week_comparison.c  
+│            ├── 04_dynamic_categories.c  
+│            └── README.md  
 │    
 └── README.md   
 
