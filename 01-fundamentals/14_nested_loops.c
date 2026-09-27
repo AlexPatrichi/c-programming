@@ -1,6 +1,6 @@
 /*
 =============================================================================
-FILE: 13_nested_loops.c
+FILE: 14_nested_loops.c
 PURPOSE: Demonstrates nested loops in C by printing a pyramid pattern
 using spaces and stars.
 =============================================================================

@@ -1,6 +1,6 @@
 /*
 =============================================================================
-FILE: 09_switch_statements.c
+FILE: 10_switch_statements.c
 PURPOSE: Demonstrates how to use switch statements in C to handle multiple
 possible values of a variable in a cleaner way than multiple if-else blocks.
 =============================================================================

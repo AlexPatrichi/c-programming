@@ -1,6 +1,6 @@
 /*
 =======================================================================
-FILE: 06_operators.c
+FILE: 07_operators.c
 PURPOSE: Demonstrates arithmetic, assignment, and relational operators
 using an online clothing shopping cart example.
 =======================================================================

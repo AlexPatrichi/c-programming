@@ -1,6 +1,6 @@
 /*
 =============================================================================
-FILE: 12_for_loop.c
+FILE: 13_for_loop.c
 PURPOSE: Demonstrates the use of a for-loop in C by generating a
 multiplication table for a user-provided number.
 =============================================================================

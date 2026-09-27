@@ -1,6 +1,6 @@
 /*
 =============================================================================
-FILE: 07_user_input_scanf.c
+FILE: 08_user_input_scanf.c
 PURPOSE: Demonstrates user input using scanf() and fgets() through a simple 
 gym app profile setup.
 =============================================================================

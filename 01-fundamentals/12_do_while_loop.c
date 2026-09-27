@@ -1,6 +1,6 @@
 /*
 =============================================================================
-FILE: 11_do_while_loop.c
+FILE: 12_do_while_loop.c
 PURPOSE: Demonstrates a do-while loop in C to repeat code until a valid 
 input is received (input validation example).
 =============================================================================

@@ -1,6 +1,6 @@
 /*
 ==============================================================================
-FILE: 10_nested_switch.c
+FILE: 11_nested_switch.c
 PURPOSE: Demonstrates nested switch statements by building a simple calculator.
 ==============================================================================
 */

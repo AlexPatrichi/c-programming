@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-FILE: 05_type_conversion.c
+FILE: 06_type_conversion.c
 PURPOSE: Demonstrates implicit and explicit type conversion using a shopping 
 basket example.
 ===============================================================================
