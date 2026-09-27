@@ -1,0 +1,9 @@
+Item ID: 101
+Asset Tag: Cam-101
+Status: Available
+Item ID: 102
+Asset Tag: Cam-102
+Status: Loaned
+Item ID: 103
+Asset Tag: Cam-103
+Status: Under Maintenance
