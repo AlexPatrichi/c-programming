@@ -2,8 +2,6 @@
 
 This repository is my personal journey learning **C programming**, as part of my university coursework and through independent study. It contains exercises, mini-projects, and notes organized by topics and difficulty levels. The goal is to **practice consistently, develop a deep understanding of core concepts, and document my progress over time**.  
 
----
-
 ## 📁 Repository Structure
 
 ```text
@@ -90,12 +88,9 @@ c_programming/
 └── README.md
 ```
 
---- 
-
 ## My Learning Goals  
 - Understand the core concepts of C programming.  
 - Build small projects to apply each concept.  
 - Keep track of progress through documentation and GitHub commits.  
 - Gradually tackle advanced topics.   
 
----
